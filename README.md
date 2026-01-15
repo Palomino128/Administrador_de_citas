@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![Logo](path-to-logo) <!-- TODO: Add project logo -->
+<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/1e7c6f86-11b3-43e6-bb38-f39adc23b827" />
+ <!-- TODO: Add project logo -->
 
 [![GitHub stars](https://img.shields.io/github/stars/Palomino128/Administrador_de_citas?style=for-the-badge)](https://github.com/Palomino128/Administrador_de_citas/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Palomino128/Administrador_de_citas?style=for-the-badge)](https://github.com/Palomino128/Administrador_de_citas/network)
